@@ -10,4 +10,4 @@ In scRNA-seq folder, there are code for single-cell RNA-seq clustering using Seu
 Example:
 ![alt text](https://github.com/zzgeng/code_lab_work/blob/main/example_pictures/violin_plot.png)
 
-In bash script, there are bash script examples for ChIP-seq processing, peak calling and RNA-seq processing using kallisto. 
+In bash script folder, there are bash script examples for HPC and slurm for ChIP-seq processing, peak calling and RNA-seq processing using kallisto. 
