@@ -30,7 +30,7 @@ ui <- fluidPage(
     sidebarLayout(
       sidebarPanel(
         # Select box with terms
-        selectInput("gene_set", "Select genes:", 
+        selectInput("gene_set", "Select Promoter:", 
                     choices = c("PRC1 core component", "Canonical", "Non-canonical", "All"),
                     selected = "All")  # Optional: set default selected term
       ,
