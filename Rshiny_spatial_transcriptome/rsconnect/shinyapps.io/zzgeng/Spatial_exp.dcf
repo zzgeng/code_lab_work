@@ -1,0 +1,14 @@
+name: Spatial_exp
+title: Spatial_exp
+username:
+account: zzgeng
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7516281
+bundleId: 6473400
+url: https://zzgeng.shinyapps.io/Spatial_exp/
+when: 1667522435.92178
+lastSyncTime: 1667522435.92179
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: gene_exp_SCT.RData
